@@ -44,7 +44,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en proyectos emoc
 Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres conectarte, no dudes en ponerse en contacto conmigo:
 
 - **Correo Electrónico:** [pablo.pereira00@gmail.com](mailto:pablo.pereira00@gmail.com)
-- **LinkedIn:** [Pablo Pereira en LinkedIn](https://www.linkedin.com/in/in/pablo-pereira-4183181a3/)
+- **LinkedIn:** [Pablo Pereira en LinkedIn](https://www.linkedin.com/in/pablo-pereira-albert/)
 - **GitHub:** [Perfil de GitHub](https://github.com/bloid3)
 
 ¡Espero tener la oportunidad de trabajar juntos en el futuro!
